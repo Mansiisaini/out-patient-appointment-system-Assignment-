@@ -6,14 +6,14 @@ app = Flask(__name__)
 doctors = [
     {
         "id": 1,
-        "name": "Dr. Smith",
+        "name": "Dr. sita",
         "specialty": "Cardiologist",
         "available_days": ["Monday", "Wednesday", "Friday"],
         "max_patients": 5
     },
     {
         "id": 2,
-        "name": "Dr. Johnson",
+        "name": "Dr. verma",
         "specialty": "Dermatologist",
         "available_days": ["Tuesday", "Thursday", "Saturday"],
         "max_patients": 5
